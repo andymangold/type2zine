@@ -63,6 +63,10 @@ body {
   color: #000;
 }
 
+.block.title:hover {
+  cursor: default;
+}
+
 /* SPECIFIC IMAGES */
 
 .bnix {

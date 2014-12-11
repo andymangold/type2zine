@@ -1,0 +1,94 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Courier New", monospace;
+  background: #000;
+}
+
+body {
+  margin: 0;
+}
+
+.block {
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+  float: left;
+  width: 25%;
+  height: 50%;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray;
+  filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' height='0'><filter id='greyscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0' /></filter></svg>#greyscale");
+  text-align: center;
+  color: #fff;
+}
+
+@media screen and (max-width: 900px) {
+  .block {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .block {
+    width: 100%;
+  }
+}
+
+.block:hover {
+  filter: none;
+  -webkit-filter: none;
+  cursor: pointer;
+}
+
+.block h2,
+.block h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  line-height: 1.3em;
+  position: relative;
+  top: 50%;
+  transform: translateY(-70%);
+}
+
+.block.title {
+  background: #fff;
+  color: #000;
+}
+
+/* SPECIFIC IMAGES */
+
+.bnix {
+  background-image: url("images/haute-couture.jpg");
+}
+
+.wtisdale {
+  background-image: url("images/wright-flyer.jpg");
+}
+
+.thackley {
+  background-image: url("images/bjennings.jpg");
+}
+
+.hcastanedo {
+  background-image: url("images/standard-model.jpg");
+}
+
+.jgray {
+  background-image: url("images/iucn-red-list.jpg");
+}
+
+.cfodge {
+  background-image: url("images/spite-houses.jpg");
+}
+
+.syang {
+  background-image: url("images/amphicoelias.jpg");
+}

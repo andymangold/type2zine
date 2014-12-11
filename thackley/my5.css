@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	padding: 50px 300px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	
+	
+	
+	
+	}
+
+.title {
+	font-family:Consolas, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+
+	font-size:80px;
+	color:#2905BC; }
+	
+.middle
+{ font-size:30px;
+	
+	
+	
+	}
+
+
+
+h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14,h15,h16,h17,h18{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color:Blue;
+	
+	}
+	
+.brandon{
+	padding: 10px;
+	align-left: 20%;
+}
+
+
+

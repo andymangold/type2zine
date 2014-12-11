@@ -1,0 +1,125 @@
+body {
+	margin-left: 25%;
+	margin-right: 25%;
+
+
+	
+
+}
+
+p {
+	font-size: 15px;
+	line-height: 20px;
+	vertical-align: center;
+	
+}
+
+blockquote {
+	font-family: 'Bitter', serif;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	padding: 60px;
+	background: #AB2929;
+	color: #ffffff;
+	float: left;
+	clear:both;
+}
+
+
+h2 {
+font-family: 'Bitter', serif;
+margin-top: 50px;
+margin-bottom: 30px;
+text-align: center;
+}
+
+h3 {
+font-family: "Trebuchet MS", sans-serif;}
+
+h4 {
+ font-family: 'Bitter', serif;
+ font-size: 15px;
+ margin top: 20px;
+ margin-bottom: 0px;
+ color: #AB2929;
+ text-align: center;
+ 
+padding: 0px 0px 0px 0px;}
+
+h6 {
+	margin-top: 0px;
+	margin-bottom: 60px;
+}
+#icon {
+	font-size: 100px;
+	position: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	clear: both;
+}
+#subhead {
+	font-style: italic;
+	font-size: small;
+	margin-bottom: 10px;
+	text-align: left;
+	text-align: center;
+}
+
+
+#header {
+	margin-top: 50px;
+	margin-bottom: 10px;
+	padding-bottom: 15px;
+	padding-top: 0.5px;
+	padding-left: 15px;
+	color: #ffffff;
+	background-color: #AB2929;
+	text-align: center;
+}
+
+
+
+
+div.figure {
+  vertical-align: center;
+  width: 500px;
+  border: thin silver solid;
+  padding: 0.5em;
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+div.figure p {
+	vertical-align: center;
+    font-style: italic;
+  font-size: 9px;
+  line-height: 10px;
+  text-indent: 0;
+  color: black;
+}
+img.scaled {
+  width: 100%;
+}
+
+#item {
+		margin top: 50px;
+		margin bottom: 50px;
+		border: 0.5em; 
+		float: left;
+		clear: both;
+		vertical-align: center;
+}
+
+h1 {
+font-family: 'Bitter', serif;
+font-size:90px;
+
+margin-top: 50px;
+margin-bottom: 0px;
+ 
+padding: 0px 0px 0px 0px;}
+}
+

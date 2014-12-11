@@ -1,0 +1,167 @@
+body {
+margin-left: 0%;
+
+}
+
+p {
+	font-size: 12px;
+	line-height: 19px;
+	text-indent: 20px;
+}
+
+#pre {
+		width: 250px;
+		vertical-align: center;
+		margin-right: auto;
+		margin-left: auto;
+		}
+
+blockquote {
+	font-family: 'IM Fell Double Pica', serif;
+	font-size: 20px;
+	font-weight: italic;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	margin-left: 30%;
+	margin-right: 30%;
+	padding: 60px;
+	width: 400px;
+		border: thin silver solid;
+	float: left;
+	clear:both;
+}
+
+
+h2 {
+font-family: 'IM Fell French Canon', serif;
+margin-top: 50px;
+margin-bottom: 30px;
+
+
+}
+
+h3 {
+font-family: "Trebuchet MS", sans-serif;}
+
+h4 {
+ font-family: 'IM Fell French Canon', serif;
+ font-size: 15px;
+ margin top: 20px;
+ margin-bottom: 0px;
+ padding: 0px 0px 0px 0px;}
+
+ h5 {
+ 	margin-top: 0px;
+ }
+
+h6 {
+	margin-top: 0px;
+	margin-bottom: 60px;
+}
+
+#subhead {
+	font-style: italic;
+	font-size: small;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+#header {
+	margin-top: 50px;
+	margin-bottom: 10px;
+	padding-bottom: 15px;
+	padding-top: 0.5px;
+	padding-left: 15px;
+	text-align: left;
+}
+
+#icon {
+	width: 100%;
+	margin-left: -100px;
+		clear: both;
+}
+
+
+div.figure {
+  
+  width: 210px;
+  border: thin silver solid;
+  padding: 0.5em;
+  clear: both;
+  margin-left: auto;
+  margin-right: 15px;
+  margin-top: 5px;
+  float: left;  
+}
+
+div.figure p {
+	  font-style: italic;
+  font-size: 11px;
+  line-height: 13px;
+  text-indent: 0;
+  color: black;
+  padding-bottom: 1px;
+}
+img.scaled {
+  width: 100%;
+}
+
+#headingimg{
+		width: 800px;
+		vertical-align: center;
+		margin-right: auto;
+		margin-left: auto;
+}
+
+#items{
+		width: 1000px;
+		vertical-align: center;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+#item1{
+    position: relative;
+    left: 25%;
+	max-width: 400px;
+		margin top: 50px;
+		margin bottom: 50px;
+		border: 0.5em; 
+		float: left;
+		clear: both;
+			}
+
+#item2{
+    position: relative;
+    left: 33%;
+	max-width: 400px;
+		margin top: 50px;
+		margin bottom: 50px;
+		border: 0.5em; 
+		float: left;
+		clear: both;
+}
+
+#item3{
+	position: relative;
+    left: 36%;
+	max-width: 400px;
+		margin top: 50px;
+		margin bottom: 50px;
+		border: 0.5em; 
+		float: left;
+		clear: both;
+			}
+
+
+h1 {
+font-family: 'IM Fell French Canon', serif;
+font-size:100px;
+
+margin-top: 0px;
+margin-bottom: 0px;
+ text-align: center;
+padding: 0px 0px 0px 0px;}
+}
+
+

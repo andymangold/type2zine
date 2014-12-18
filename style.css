@@ -67,6 +67,13 @@ body {
   cursor: default;
 }
 
+.block.title img {
+  position: relative;
+  width: 60%;
+  top: 50%;
+  transform: translateY(-55%);
+}
+
 /* SPECIFIC IMAGES */
 
 .bnix {

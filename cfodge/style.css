@@ -1,12 +1,13 @@
-body {
-margin-left: 0%;
-
+html, body {
+	margin-left: 0%;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 p {
 	font-size: 12px;
 	line-height: 19px;
-	text-indent: 20px;
+	
 }
 
 #pre {
@@ -36,8 +37,6 @@ h2 {
 font-family: 'IM Fell French Canon', serif;
 margin-top: 50px;
 margin-bottom: 30px;
-
-
 }
 
 h3 {
@@ -48,7 +47,8 @@ h4 {
  font-size: 15px;
  margin top: 20px;
  margin-bottom: 0px;
- padding: 0px 0px 0px 0px;}
+ padding: 0px 0px 0px 0px;
+}
 
  h5 {
  	margin-top: 0px;
@@ -113,23 +113,23 @@ img.scaled {
 		margin-left: auto;
 }
 
-#items{
+#items {
 		width: 1000px;
 		vertical-align: center;
 		margin-right: auto;
 		margin-left: auto;
 	}
 
-#item1{
+ #item1 {
     position: relative;
-    left: 25%;
+    left: 20%;
 	max-width: 400px;
 		margin top: 50px;
 		margin bottom: 50px;
 		border: 0.5em; 
 		float: left;
 		clear: both;
-			}
+}
 
 #item2{
     position: relative;
@@ -151,8 +151,18 @@ img.scaled {
 		border: 0.5em; 
 		float: left;
 		clear: both;
-			}
+}
 
+#item3{
+	position: relative;
+    left: 36%;
+	max-width: 400px;
+		margin top: 50px;
+		margin bottom: 50px;
+		border: 0.5em; 
+		float: left;
+		clear: both;
+}
 
 h1 {
 font-family: 'IM Fell French Canon', serif;

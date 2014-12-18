@@ -4,7 +4,16 @@
 body {
 	padding-top: 50px;
 	margin: 0;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', sans-serif;
+	}
+
+a {
+	color: #2A6693;
+	text-decoration: none;
+	}
+	
+li {
+	list-style: none;
 	}
 		
 	
@@ -23,12 +32,12 @@ body {
 	}
 
 .block1 {
-	background-color: #E1DEDE;
+	background-color: white;
 	height: 2.2em;
 	}
 
 .block2 {
-	background-color: #2A6693;
+	background-color: #E1DEDE;
 	height: 2.2em;
 	}
 	
@@ -42,22 +51,22 @@ body {
 	margin: 0;
 	}
 	
+.abouttitle {
+	padding: 20px 100px;
+	margin: 0;
+	background-color: #2A6693;
+	color: white;
+	font-size: 36px;
+	text-align: center;
+	}
+	
 .abouttext {
-	padding: 50px 100px;
+	padding: 10px 100px 50px 100px;
 	color: white;
 	}
 
 .otherlink {
 	color: white; /* #E1DEDE */
-	}
-
-.title {
-	padding: 20px 100px;
-	margin: 0;
-	background-color: white;
-	color: #2A6693;
-	font-size: 36px;
-	text-align: center;
 	}
 	
 .history {
@@ -68,16 +77,45 @@ body {
 	background-size: cover;
 	}
 	
+.histitle {
+	padding: 20px 100px 0 100px;
+	margin: 0;
+	color: white;
+	font-size: 36px;
+	align-content: center;
+	}
+
 .historytext {
-	padding: 50px 100px;
+	padding: 20px 20px 50px 20px;
 	color: white; /* #2A6693 */
 	font-size: 12px;
+	/*-webkit-column-count: 5; /* Chrome, Safari, Opera 
+    -moz-column-count: 5;  Firefox 
+    column-count: 5;
+	-webkit-column-gap: 20px;  Chrome, Safari, Opera 
+    -moz-column-gap: 20px;  Firefox 
+    column-gap: 20px;
+	-webkit-column-rule: 3px outset none;  Chrome, Safari, Opera 
+    -moz-column-rule: 3px outset none;  Firefox 
+    column-rule: 3px outset none;
+	-webkit-column-span: 1;  Chrome, Safari, Opera 
+    column-span: 1; */
 	}
+	
 	
 .cat {
 	margin: 0;
 	align-content: center;
-	background-color: #E1DEDE; /* #8DCBD5 */
+	/* background-color: #E1DEDE; #8DCBD5 */
+	}
+	
+.cattitle {
+	padding: 20px 100px 0 100px;
+	margin: 0;
+	background-color: white;
+	color: #2A6693;
+	font-size: 36px;
+	text-align: center;
 	}
 	
 .cattext {
@@ -87,23 +125,24 @@ body {
 	}
 
 .circle {
-	padding: 25px 0;
+	padding: 25px 20px;
+	text-align: center;
+	position: relative;
 	}
-	
-.caption {
-	color: white;
-	}	
-	
-.circle:hover .caption {
-	background-color: black;
-	opacity: .75;
-	bottom: 0;
-	}
-	
+
 .versions {
 	padding: 0;
 	margin: 0;
 	background-color: #8DCBD5
+	}
+	
+.vertitle {
+	padding: 20px 100px 0 100px;
+	margin: 0;
+	background-color: #8DCBD5;
+	color: white;
+	font-size: 36px;
+	text-align: center;
 	}
 	
 	
@@ -112,7 +151,16 @@ body {
 	align-content: center;
 	background-color: #2A6693;
 	}
-	
+
+.crittitle {
+	padding: 20px 100px 0 100px;
+	margin: 0;
+	background-color: #2A6693;
+	color: white;
+	font-size: 36px;
+	text-align: center;
+	}
+
 .criticismtext {
 	padding: 50px 100px;
 	color: white;

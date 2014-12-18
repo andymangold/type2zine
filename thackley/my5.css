@@ -3,17 +3,11 @@
 
 body{
 	padding: 50px 300px;
-	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	
-	
-	
-	
 	}
 
 .title {
-	font-family:Consolas, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-
-	font-size:80px;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace; 
+	font-size:50px;
 	color:#2905BC; }
 	
 .middle
@@ -25,10 +19,12 @@ body{
 
 
 
-h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14,h15,h16,h17,h18{
-	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-	color:Blue;
+h2,h3,h4,h6{
+	font-family: 'Droid Sans Mono', ;
+	color:Blue;}
 	
+h5{
+	color:rgba(228,63,66,1.00);
 	}
 	
 .brandon{

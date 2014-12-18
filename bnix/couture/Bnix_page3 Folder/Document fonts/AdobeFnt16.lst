@@ -1,0 +1,96 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniMT
+FamilyName:Bodoni MT
+StyleName:Regular
+FullName:Bodoni MT
+MenuName:Bodoni MT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\couture\couture\Bnix_page3 Folder\Document fonts\BOD_R.TTF
+DataFormat:sfntData
+FileLength:77884
+FileModTime:1383874951
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bodoni MT
+NameArray:0,Win,1,Bodoni MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-Bold
+FamilyName:Futura Std
+StyleName:Bold
+FullName:Futura Std Bold
+MenuName:Futura Std Book
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\couture\couture\Bnix_page3 Folder\Document fonts\FuturaStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:26900
+FileModTime:1052806656
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Futura Std Bold
+NameArray:0,Win,1,Futura Std Book
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-Book
+FamilyName:Futura Std
+StyleName:Book
+FullName:Futura Std Book
+MenuName:Futura Std Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\couture\couture\Bnix_page3 Folder\Document fonts\FuturaStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25708
+FileModTime:1052806656
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Futura Std Book
+NameArray:0,Win,1,Futura Std Book
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\couture\couture\Bnix_page3 Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1363379132
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

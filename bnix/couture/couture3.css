@@ -1,21 +1,22 @@
 #head{
 	font-size:37px;
-	color:#CF0000;
+	color:#B80000;
 	text-align:center;
-	border-bottom: 9px double black;
-	background-color:white;
-	font-family:BaskervilleBT-Bold ;
+	border-bottom:;
+	background-color:#F5F5F5;
+	font-family:verdana  ;
+	
 	
 
 }
 #left{
-	border:2px solid black;
+	border:;
 	float: left;
 	width:20%;
 	min-height: 30em;
 	background-color:white;
 	height:3000px;
-	font-family:Baskerville-Normal ;
+	font-family:verdana ;
 }
 #center{
 	font-size:;
@@ -25,19 +26,19 @@
 	padding-left:2%;
 	padding-right:2%;
 	min-height: 30em;
-	background-image:url("contents.jpg");
-	height:3000px;
+	background-color:#F5F5F5;
+	height:5500px;
 	
 }
 #right{
-	border:2px solid black;
+	border:;
 	text-align:justify;
 	float:right;
 	width:12%;
 	padding-left: 2%;
 	min-height: 30em;
 	background-color:white;
-	height:3000px;
+	height:1980px;
 	font-family:Baskerville-Normal;
 }
 #footer{
@@ -48,39 +49,41 @@
 	text-align: center;
 }
 h2{
-	font-size:35px;
-	color:#CF0000;
-	border-bottom:2px black double;
-	font-family:BaskervilleBT-Bold;
+	font-size:30px;
+	color: #A30000;
+	border-bottom:;
+	font-family:verdana;
 }
 h3{
 	font-size:25px;
-	color:#CF0000;
-	border-bottom:1px black solid;
-	font-family:BaskervilleBT-Bold;
+	color:#A30000;
+	font-family:verdana;
 
 }
 h4{
 	font-size:20px;
-	font-family:BAskervilleBT-Bold;
-	color:#CF0000;
+	font-family:verdana;
+	color:#A30000;
 }
 p{
-	font-size:18px ;
-	font-family:Baskerville-Normal;
-	line-height:30px;
+	font-size:15px ;
+	font-family:verdana;
+	line-height:35px;
 }
 li{
-	font-family:BaskervilleBT-Bold;
-	color:gray;
-	font-size:20px;
+	font-family:verdana;
+	color:black;
+	font-size:15px;
 }
 blockquote {
-	font-size: 48px;
-	font-family:BaskervilleBT-Bold;
+	font-size: 30px;
+	font-family:verdana;
 	font-weight: bold;
 	margin: 0;
 	padding: 40px;
-	background: #E0E0D1;
+	background: white;
 	color: #161615;
+}
+ul{
+	font-family:verdana;
 }
